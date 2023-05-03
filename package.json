@@ -27,7 +27,7 @@
     "@ethersproject/contracts": "^5.0.0",
     "@ethersproject/providers": "^5.0.0",
     "@types/node": "^18.6.3",
-    "abi-coder": "^4.0.0"
+    "abi-coder": "^5.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.23.0",
