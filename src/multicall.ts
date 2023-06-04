@@ -92,7 +92,7 @@ function getMulticall(chainId: number): Multicall | null {
     },
     7700: {
       address: '0x210b88d5Ad4BEbc8FAC4383cC7F84Cd4F03d18c6',
-      block: 0,
+      block: 60492,
     },
     31337: {
       address: '0xeefba1e63905ef1d7acba5a8513c70307c1ce441',
@@ -178,7 +178,7 @@ function getMulticall2(chainId: number): Multicall | null {
     },
     7700: {
       address: '0x637490E68AA50Ea810688a52D7464E10c25A77c1',
-      block: 0,
+      block: 60496,
     },
     31337: {
       address: '0x5ba1e12693dc8f9c48aad8770482f4739beed696',
